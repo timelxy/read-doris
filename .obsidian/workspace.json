@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "23d227f734e027b2",
+        "id": "284f2d83fa534fd2",
         "type": "tabs",
         "children": [
           {
-            "id": "830265553fcbce58",
+            "id": "db818c0ec70c19c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2284ca44c88084cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Schedule.md",
+                "file": "official video/第一讲：建表语句的执行过程.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Schedule.md",
+                "file": "official video/第一讲：建表语句的执行过程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Schedule.md",
+                "file": "official video/第一讲：建表语句的执行过程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Schedule.md"
+                "file": "official video/第一讲：建表语句的执行过程.md"
               }
             }
           }
@@ -167,7 +154,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2284ca44c88084cc",
+  "active": "db818c0ec70c19c2",
   "lastOpenFiles": [
     "README.md",
     "Schedule.md",
