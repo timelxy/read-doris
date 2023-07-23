@@ -156,10 +156,12 @@
   },
   "active": "830265553fcbce58",
   "lastOpenFiles": [
+    "multiple-version-compile.md",
+    "README.md",
+    "dev-deploy.md",
+    "bug-grouping-sets.md",
     "official video/第一讲：建表语句的执行过程.md",
     "Untitled/Untitled",
-    "official video",
-    "README.md",
-    "bug-grouping-sets.md"
+    "official video"
   ]
 }

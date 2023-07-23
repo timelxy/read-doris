@@ -1,2 +1,1 @@
-# read-doris
-notes about reading doris source code
+notes about reading doris source code.
