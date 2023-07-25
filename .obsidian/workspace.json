@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "official video/第一讲：建表语句的执行过程.md",
+                "file": "official video/第二讲：.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "official video/第一讲：建表语句的执行过程.md",
+                "file": "official video/第二讲：.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "official video/第一讲：建表语句的执行过程.md",
+                "file": "official video/第二讲：.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "official video/第一讲：建表语句的执行过程.md"
+                "file": "official video/第二讲：.md"
               }
             }
           }
@@ -155,10 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4fac5528f11dfd5b",
+  "active": "db818c0ec70c19c2",
   "lastOpenFiles": [
-    "Schedule.md",
     "official video/第一讲：建表语句的执行过程.md",
+    "official video/第二讲：.md",
+    "Schedule.md",
     "README.md",
     "multiple-version-compile.md",
     "dev-deploy.md",
